@@ -1,0 +1,17 @@
+#![alt text](image.png)
+
+# MATERIA : PROYECTO INTEGRADOR 1
+
+## PROFESOR : GONZALO VERA
+
+## ALUMNO : LIONEL RIOS
+
+## AÑO: 2024
+
+### ACTIVIDADES DE INVESTIGACIÓN
+
+[FUNDAMENTOS DE GIT](./fundamentosGit/)
+
+[FUNDAMENTOS IOT](./fundamentosIoT/)
+
+[FUNDAMENTOS METODOLOGIAS AGILES](./fundamentosMAgiles/)
