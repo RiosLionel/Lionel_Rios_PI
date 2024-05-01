@@ -10,5 +10,7 @@
 
 ### Monorepositorio personal
 
-[Primera_semana](/Primera_Semana/)
+[Primera_semana](./Primer_proyecto/)
+
+[Segunda_semana](./Segundo_proyecto/)
 
