@@ -10,6 +10,6 @@
 
 ### ACTIVIDADES DE INVESTIGACIÓN
 
-[FUNDAMENTOS Platformio y MicroPython](./fundamentos_MicroPython_Arduino_Platformio/)
+[Fundamentos Platformio y MicroPython](./fundamentos_MicroPython_Arduino_Platformio/)
 
-[FUNDAMENTOS ESP32](./fundamentosESP32/)
+[Fundamentos ESP32](./fundamentosESP32/)

@@ -11,7 +11,7 @@
 
 ## ACTIVIDAD
 
-1 - Crear la documentacion para las metodologias agiles: Scrum y Kanban
+1 - Investigar sobre diferentes módulos shield disponibles para ESP32 y su aplicación en controladores IoT
 
-[Documento](./Metodologias_agiles.pdf)
+[Documento](./Fundamentos_ESP32.pdf)
 

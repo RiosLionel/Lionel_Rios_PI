@@ -12,5 +12,5 @@
 
 Documentar las características principales de Arduino (PlatformIO) y MicroPython (RT-Thread), destacando sus diferencias y aplicaciones en IoT.
 
-[Ensayo](./)
+[Ensayo](./Fundamento_Platfomio_y_MicroPython.pdf)
 
