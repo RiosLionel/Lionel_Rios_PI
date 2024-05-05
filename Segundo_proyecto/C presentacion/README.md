@@ -10,11 +10,12 @@
 
 ## PROYECTO EN WOKWI
 
-RESUMEN DEL TRABAJO: PUDE AVANZAR DESDE LA PAGINA DE WORWI, SOLO UNA PARTE YA QUE AL MOMENTO DE QUERER AGREGAR EL CODIGO, NO ME PERMITIA AVANZAR.
+### Simulación en Wokwi: 
 
-CUANDO DESCARGUE EL PROYECTO, DESDE VSCODE, ME SOLICITA UNA LICENCIA DE USO.
+• Realizar simulaciones de cada uno de los controladores implementados para validar su funcionamiento antes de la carga en el hardware real.
 
-Luego de solucionarlo, me da un error al hacer PIO RUN, dejo screen abajo.-
+RESUMEN DEL TRABAJO: Pude avanzar en los ejercicios, no pude hacer funcionar el potenciometro, busque ayudas en otros trabajos pero no supe como adaptarlo.
+
 
 ![EJERCICIOS](./Controlador_entradas_digitales.zip)
 
