@@ -17,7 +17,11 @@ CUANDO DESCARGUE EL PROYECTO, DESDE VSCODE, ME SOLICITA UNA LICENCIA DE USO.
 Luego de solucionarlo, me da un error al hacer PIO RUN, dejo screen abajo.-
 
 ![EJERCICIOS](./Controlador_entradas_digitales.zip)
+
 ![EJERCICIOS](./Controlador_entradas_digitales_PY.zip)
+
 ![EJERCICIOS](./Controlador_entradas_analogicas.zip)
+
 ![EJERCICIOS](./Salidas_digitales_2.zip)
+
 ![EJERCICIOS](./Salida_analoga2.zip)
